@@ -7,7 +7,8 @@ And all queues will receive/delete messages.
 After that will delete the messages and delete the queues
 
 
-## How to test it. 
+## How to test it
+
 You will see the message body in the console.
 
 ## Displaying messages in console
